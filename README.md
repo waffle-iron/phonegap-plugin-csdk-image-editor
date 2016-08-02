@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/CreativeSDK/phonegap-plugin-csdk-image-editor.png?label=ready&title=Ready)](https://waffle.io/CreativeSDK/phonegap-plugin-csdk-image-editor)
 <!--
 #
 # Licensed to the Apache Software Foundation (ASF) under one
